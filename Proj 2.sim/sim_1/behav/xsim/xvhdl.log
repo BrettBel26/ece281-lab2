@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Brett.Belleville/OneDrive - afacademy.af.edu/Desktop/ECE 281/Projects/Lab 2/ece281-lab2/src/hdl/sevenSegDecoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sevenSegDecoder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Brett.Belleville/OneDrive - afacademy.af.edu/Desktop/ECE 281/Projects/Lab 2/ece281-lab2/src/hdl/sevenSegDecoder_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sevenSegDecoder_TB
